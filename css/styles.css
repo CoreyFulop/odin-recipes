@@ -1,0 +1,41 @@
+/* Index Styles */
+
+.site-title {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-family: Veranda, "Times New Roman", sans-serif;
+}
+
+.recipes li {
+    list-style-type: none;
+    font-size: large;
+    line-height: 2;
+    text-align: center;
+}
+
+/* Index Styles ends */
+
+body {
+    line-height: 1.2;
+    font-family: Veranda, "Times New Roman", sans-serif;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: orangered;
+    text-align: center;
+}
+
+h3 {
+    color: olive;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
