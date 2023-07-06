@@ -7,6 +7,13 @@
     font-family: Veranda, "Times New Roman", sans-serif;
 }
 
+.recipes {
+    border-width: 2px;
+    border-color: rebeccapurple;
+    border-style: solid;
+}
+
+
 .recipes li {
     list-style-type: none;
     font-size: large;
@@ -14,9 +21,11 @@
     text-align: center;
 }
 
+
 /* Index Styles ends */
 
 body {
+    background-color: skyblue;
     line-height: 1.2;
     font-family: Veranda, "Times New Roman", sans-serif;
 }
@@ -33,9 +42,11 @@ h2 {
 
 h3 {
     color: olive;
-    text-align: center;
+    text-align: left;
+    margin-left: 20px;
 }
 
 div {
     text-align: center;
 }
+
